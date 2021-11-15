@@ -142,7 +142,7 @@ github.com/golang/protobuf/ptypes
 github.com/golang/protobuf/ptypes/any
 github.com/golang/protobuf/ptypes/duration
 github.com/golang/protobuf/ptypes/timestamp
-# github.com/google/go-cmp v0.5.4
+# github.com/google/go-cmp v0.5.5
 ## explicit
 github.com/google/go-cmp/cmp
 github.com/google/go-cmp/cmp/cmpopts
@@ -641,7 +641,7 @@ honnef.co/go/tools/staticcheck
 honnef.co/go/tools/stylecheck
 honnef.co/go/tools/unused
 honnef.co/go/tools/version
-# k8s.io/api v0.21.4 => k8s.io/api v0.21.4
+# k8s.io/api v0.21.6 => k8s.io/api v0.21.4
 ## explicit
 k8s.io/api/admission/v1
 k8s.io/api/admission/v1beta1
@@ -730,7 +730,7 @@ k8s.io/apiextensions-apiserver/pkg/generated/openapi
 k8s.io/apiextensions-apiserver/pkg/registry/customresource
 k8s.io/apiextensions-apiserver/pkg/registry/customresource/tableconvertor
 k8s.io/apiextensions-apiserver/pkg/registry/customresourcedefinition
-# k8s.io/apimachinery v0.21.4 => k8s.io/apimachinery v0.21.4
+# k8s.io/apimachinery v0.21.6 => k8s.io/apimachinery v0.21.4
 ## explicit
 k8s.io/apimachinery/pkg/api/equality
 k8s.io/apimachinery/pkg/api/errors
@@ -792,7 +792,7 @@ k8s.io/apimachinery/pkg/watch
 k8s.io/apimachinery/third_party/forked/golang/json
 k8s.io/apimachinery/third_party/forked/golang/netutil
 k8s.io/apimachinery/third_party/forked/golang/reflect
-# k8s.io/apiserver v0.21.4 => k8s.io/apiserver v0.21.4
+# k8s.io/apiserver v0.21.6 => k8s.io/apiserver v0.21.4
 ## explicit
 k8s.io/apiserver/pkg/admission
 k8s.io/apiserver/pkg/admission/configuration
@@ -931,7 +931,7 @@ k8s.io/apiserver/plugin/pkg/audit/webhook
 k8s.io/apiserver/plugin/pkg/authenticator/token/oidc
 k8s.io/apiserver/plugin/pkg/authenticator/token/webhook
 k8s.io/apiserver/plugin/pkg/authorizer/webhook
-# k8s.io/client-go v0.21.4 => k8s.io/client-go v0.21.4
+# k8s.io/client-go v0.21.6 => k8s.io/client-go v0.21.4
 ## explicit
 k8s.io/client-go/applyconfigurations/admissionregistration/v1
 k8s.io/client-go/applyconfigurations/admissionregistration/v1beta1
@@ -1224,7 +1224,7 @@ k8s.io/cluster-bootstrap/token/api
 k8s.io/cluster-bootstrap/token/util
 k8s.io/cluster-bootstrap/util/secrets
 k8s.io/cluster-bootstrap/util/tokens
-# k8s.io/code-generator v0.21.4 => k8s.io/code-generator v0.21.4
+# k8s.io/code-generator v0.21.6 => k8s.io/code-generator v0.21.4
 ## explicit
 k8s.io/code-generator
 k8s.io/code-generator/cmd/client-gen
@@ -1259,7 +1259,7 @@ k8s.io/code-generator/cmd/set-gen
 k8s.io/code-generator/pkg/namer
 k8s.io/code-generator/pkg/util
 k8s.io/code-generator/third_party/forked/golang/reflect
-# k8s.io/component-base v0.21.4 => k8s.io/component-base v0.21.4
+# k8s.io/component-base v0.21.6 => k8s.io/component-base v0.21.4
 ## explicit
 k8s.io/component-base/cli/flag
 k8s.io/component-base/cli/globalflag
@@ -1281,7 +1281,7 @@ k8s.io/component-base/metrics/testutil
 k8s.io/component-base/term
 k8s.io/component-base/version
 k8s.io/component-base/version/verflag
-# k8s.io/component-helpers v0.21.4 => k8s.io/component-helpers v0.21.4
+# k8s.io/component-helpers v0.21.6 => k8s.io/component-helpers v0.21.4
 ## explicit
 k8s.io/component-helpers/apimachinery/lease
 k8s.io/component-helpers/apps/poddisruptionbudget
@@ -1305,7 +1305,7 @@ k8s.io/gengo/generator
 k8s.io/gengo/namer
 k8s.io/gengo/parser
 k8s.io/gengo/types
-# k8s.io/klog/v2 v2.8.0
+# k8s.io/klog/v2 v2.9.0
 ## explicit
 k8s.io/klog/v2
 # k8s.io/kube-aggregator v0.0.0 => k8s.io/kube-aggregator v0.21.4
@@ -1356,7 +1356,7 @@ k8s.io/kube-openapi/pkg/validation/spec
 k8s.io/kube-openapi/pkg/validation/strfmt
 k8s.io/kube-openapi/pkg/validation/strfmt/bson
 k8s.io/kube-openapi/pkg/validation/validate
-# k8s.io/kube-scheduler v0.21.4 => k8s.io/kube-scheduler v0.21.4
+# k8s.io/kube-scheduler v0.21.6 => k8s.io/kube-scheduler v0.21.4
 ## explicit
 k8s.io/kube-scheduler/config/v1
 k8s.io/kube-scheduler/config/v1beta1
@@ -1365,7 +1365,7 @@ k8s.io/kube-scheduler/extender/v1
 k8s.io/kubectl/pkg/scale
 # k8s.io/kubelet v0.0.0 => k8s.io/kubelet v0.21.4
 k8s.io/kubelet/pkg/apis
-# k8s.io/kubernetes v1.21.4 => k8s.io/kubernetes v1.21.4
+# k8s.io/kubernetes v1.21.6 => k8s.io/kubernetes v1.21.4
 ## explicit
 k8s.io/kubernetes/cmd/kube-apiserver/app
 k8s.io/kubernetes/cmd/kube-apiserver/app/options
@@ -1880,6 +1880,40 @@ k8s.io/utils/trace
 # sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.0.22
 sigs.k8s.io/apiserver-network-proxy/konnectivity-client/pkg/client
 sigs.k8s.io/apiserver-network-proxy/konnectivity-client/proto/client
+# sigs.k8s.io/scheduler-plugins v0.21.6
+## explicit
+sigs.k8s.io/scheduler-plugins/cmd/controller/app
+sigs.k8s.io/scheduler-plugins/pkg/apis/config
+sigs.k8s.io/scheduler-plugins/pkg/apis/config/scheme
+sigs.k8s.io/scheduler-plugins/pkg/apis/config/v1beta1
+sigs.k8s.io/scheduler-plugins/pkg/apis/scheduling
+sigs.k8s.io/scheduler-plugins/pkg/apis/scheduling/scheme
+sigs.k8s.io/scheduler-plugins/pkg/apis/scheduling/v1alpha1
+sigs.k8s.io/scheduler-plugins/pkg/capacityscheduling
+sigs.k8s.io/scheduler-plugins/pkg/controller
+sigs.k8s.io/scheduler-plugins/pkg/coscheduling
+sigs.k8s.io/scheduler-plugins/pkg/coscheduling/core
+sigs.k8s.io/scheduler-plugins/pkg/crossnodepreemption
+sigs.k8s.io/scheduler-plugins/pkg/generated/clientset/versioned
+sigs.k8s.io/scheduler-plugins/pkg/generated/clientset/versioned/fake
+sigs.k8s.io/scheduler-plugins/pkg/generated/clientset/versioned/scheme
+sigs.k8s.io/scheduler-plugins/pkg/generated/clientset/versioned/typed/scheduling/v1alpha1
+sigs.k8s.io/scheduler-plugins/pkg/generated/clientset/versioned/typed/scheduling/v1alpha1/fake
+sigs.k8s.io/scheduler-plugins/pkg/generated/informers/externalversions
+sigs.k8s.io/scheduler-plugins/pkg/generated/informers/externalversions/internalinterfaces
+sigs.k8s.io/scheduler-plugins/pkg/generated/informers/externalversions/scheduling
+sigs.k8s.io/scheduler-plugins/pkg/generated/informers/externalversions/scheduling/v1alpha1
+sigs.k8s.io/scheduler-plugins/pkg/generated/listers/scheduling/v1alpha1
+sigs.k8s.io/scheduler-plugins/pkg/noderesources
+sigs.k8s.io/scheduler-plugins/pkg/noderesourcetopology
+sigs.k8s.io/scheduler-plugins/pkg/podstate
+sigs.k8s.io/scheduler-plugins/pkg/qos
+sigs.k8s.io/scheduler-plugins/pkg/trimaran
+sigs.k8s.io/scheduler-plugins/pkg/trimaran/loadvariationriskbalancing
+sigs.k8s.io/scheduler-plugins/pkg/trimaran/targetloadpacking
+sigs.k8s.io/scheduler-plugins/pkg/util
+sigs.k8s.io/scheduler-plugins/test/integration
+sigs.k8s.io/scheduler-plugins/test/util
 # sigs.k8s.io/structured-merge-diff/v4 v4.1.2
 sigs.k8s.io/structured-merge-diff/v4/fieldpath
 sigs.k8s.io/structured-merge-diff/v4/merge
